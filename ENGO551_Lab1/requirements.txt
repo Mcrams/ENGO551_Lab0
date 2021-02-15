@@ -2,3 +2,7 @@ Flask
 Flask-Session
 psycopg2-binary
 SQLAlchemy
+requests
+json
+csv
+flask_sqlalchemy
