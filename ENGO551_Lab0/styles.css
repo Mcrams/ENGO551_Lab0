@@ -52,22 +52,3 @@ img.imgScale {
 
   margin-bottom: 100px;
 }
-
-table {
-  margin: 20px 0px;
-}
-
-table, th, td {
-  border: 1px solid black;
-  padding: 5px 10px;
-}
-
-table th {
-  color: white;
-  background-color: #708090;
-}
-
-table tr {
-  font-family: Georgia, serif;
-  background-color: #87CEEB;
-}
